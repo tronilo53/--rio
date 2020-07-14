@@ -1,0 +1,7 @@
+/*  Estilos para los titulos  */
+h1 {
+  color: dodgerblue;
+  letter-spacing: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
